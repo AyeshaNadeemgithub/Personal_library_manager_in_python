@@ -45,6 +45,4 @@ The data is saved in a file called `library.txt` in JSON format, so your library
 ```bash
 python library_manager.py
 
-🖥️ Sample Output
-
 
